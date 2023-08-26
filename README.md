@@ -13,3 +13,4 @@
 - профайлы пользователей
 - шаблоны для создания страниц
 
+![](https://github.com/Ekaterina132479/-platform-wiki/blob/main/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA.png)
